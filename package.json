@@ -1,0 +1,18 @@
+{
+  "name": "mi-primer-ejercicio-por-mi-cuenta",
+  "version": "1.0.0",
+  "description": "ejercicio-todo sea por trabajar ",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aun",
+    "no",
+    "hay",
+    "nada"
+  ],
+  "author": "esteban velasco",
+  "license": "ISC"
+}
